@@ -1,4 +1,5 @@
 These are my cybersecurity projects created using python3:
+
 1.Network scanner-Performs syn scan on the selected ip address and provides us with the open ports along with their ip adresses, additionally provides us with the servers DNS information.
 libraries used- scapy
 
@@ -6,5 +7,7 @@ libraries used- scapy
 libraries used- dnspython
 
 3.Network Monitoring-collection of network traffic (PCAP collection) from a system and detecting traffic abnormalities (implementation on a decoy system, service, network).
+libraries used- scapy
 
 4.Behavioral Analytics-Determines whether its unusual for a particular process to have network connectivity or not and gives the probability of it being comrpomised. 
+libraries used- psutil
